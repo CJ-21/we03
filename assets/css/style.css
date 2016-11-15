@@ -1,0 +1,212 @@
+* {
+	box-sizing: border-box;
+	/*font-family: 'Montserrat', sans-serif;
+	margin: 0;*/
+}
+
+body {
+	min-height: 100vh;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+}
+
+.container {
+	max-width: 65em;
+	margin: 0 auto;
+	padding-top: 1.5em;
+}
+
+
+p, li {
+	line-height: 1.5;
+}
+
+header {
+	background: #3b5998;
+	padding: 0em 2em ;
+	color: white;
+	font-weight: none;
+}
+
+.header {
+	padding: 0.7em 2em;
+}
+
+header a {
+	color: white;
+}
+
+header a:hover {
+	text-decoration: none;
+	color: #F0F8FF;
+}
+
+button a {
+	color: white;
+}
+
+footer {
+	color: white;
+	text-align: center;
+	font-size: 12px;
+	background: tomato;
+}
+
+main {
+	padding: 2em 0;
+	background-color: #f1f1f1;
+
+}
+
+footer p {
+	margin: 0;
+	padding: 2em 0;
+}
+
+/*.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+
+.footer, .push {
+height: 4em;
+}*/
+
+ b {
+	font-size: 0.9em;
+	color: #696969;
+}
+
+.btn {
+	margin: 1em;
+}
+
+.profile-editor {
+	display: none;
+}
+
+.show-editor .profile-editor {
+	display: block;
+}
+
+.show-editor .profile {
+	display: none;
+}
+
+.error {
+	color: red;
+	font-style: italic;
+	font-size: 1em;
+	display: inline-block;
+}
+
+.form-group {
+	/*height: 100px;*/
+	width: 50%;
+	padding:1em;
+}
+
+.landing .form-group {
+	width: 400px;
+}
+
+#row-form .form-group {
+	margin: 0 2em 0 2em;
+}
+
+.form-group .flex-row {
+	margin: 1em;
+}
+
+#term{
+	border:1px #DCDCDC solid;
+	border-radius:.25rem;
+	padding: .5em;
+}
+
+.contact { 
+	margin: 0 2em;
+ }
+
+.contact p {
+	margin-left: 2em;
+}
+
+.add_field_button {
+
+	background: #0275d8;
+	color: white;
+	padding: 0.5em;
+	border: none;
+	border-radius: .25rem;
+}
+
+.remove_field {
+	background: #d9534f;
+	color: white;
+	padding: 0.5em;
+	border: none;
+	border-radius: .25rem;
+}
+
+.go {
+	background: white;
+	padding: 0.5em;
+	border: none;
+	border-radius: .25rem;
+	border:1px #DCDCDC solid;
+}
+
+.container {
+	background: white;
+}
+
+.email-link {
+	height:10px;
+	width: 15px;
+	margin: 0  0 1.2em 1em;
+}
+
+.email-subject {
+	min-width: 60em;
+	padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #55595c;
+    background-color: #fff;
+    background-image: none;
+    border: .0625rem solid #ccc;
+    border-radius: .25rem;
+}
+
+#mceu_13 {
+	min-width: 60em;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #55595c;
+    border-radius: .25rem;
+}
+
+.email-message {
+	height: 300px;
+}
+
+.email p {
+	padding: 1em 1em 0 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
